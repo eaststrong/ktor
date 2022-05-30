@@ -1,0 +1,5 @@
+{
+  "addons": ["heroku-postgresql"],
+  "image": "heroku/gradle",
+  "repository": "https://github.com/eaststrong/ktor"
+}
